@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "uservecrypt",
+        "uuid": 5776634,
+        "checksum": "5tj72b"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
